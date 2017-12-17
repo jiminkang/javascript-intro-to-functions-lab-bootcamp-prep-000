@@ -15,5 +15,8 @@ function logWhisper(string){
 }  
 
 function sayHitoGrandma (string){
+  if(string.toUpperCase() == string){
+  }
+  }
   
 }
